@@ -1,4 +1,4 @@
-# Currency conversor
+# Pokedex
 
 <div align="center">
   <img src="assets/images/logo.png" width="100px">
